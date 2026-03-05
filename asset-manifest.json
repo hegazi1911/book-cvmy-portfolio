@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.d74d65d7.css",
-    "main.js": "/my-portfolio/static/js/main.2f89a2f3.js",
-    "static/js/453.81d972e6.chunk.js": "/my-portfolio/static/js/453.81d972e6.chunk.js",
-    "index.html": "/my-portfolio/index.html",
-    "main.d74d65d7.css.map": "/my-portfolio/static/css/main.d74d65d7.css.map",
-    "main.2f89a2f3.js.map": "/my-portfolio/static/js/main.2f89a2f3.js.map",
-    "453.81d972e6.chunk.js.map": "/my-portfolio/static/js/453.81d972e6.chunk.js.map"
+    "main.css": "/book-cvmy-portfolio/static/css/main.d74d65d7.css",
+    "main.js": "/book-cvmy-portfolio/static/js/main.621cf9e7.js",
+    "static/js/453.81d972e6.chunk.js": "/book-cvmy-portfolio/static/js/453.81d972e6.chunk.js",
+    "index.html": "/book-cvmy-portfolio/index.html",
+    "main.d74d65d7.css.map": "/book-cvmy-portfolio/static/css/main.d74d65d7.css.map",
+    "main.621cf9e7.js.map": "/book-cvmy-portfolio/static/js/main.621cf9e7.js.map",
+    "453.81d972e6.chunk.js.map": "/book-cvmy-portfolio/static/js/453.81d972e6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d74d65d7.css",
-    "static/js/main.2f89a2f3.js"
+    "static/js/main.621cf9e7.js"
   ]
 }
